@@ -6,9 +6,10 @@ Botun çalışması için öncelikle settings.json dosyasında Discord bot token
 
 Bot, sunucuda belirli komutları dinleyerek matematiksel hesaplamalar yapar. Aşağıdaki komutlar bot tarafından desteklenmektedir:
 <br>
+<h1>Komutlar</h1>
 ⭐!küpü: Kullanıcıdan bir sayı girmesini ister ve ardından bu sayının küpünü hesaplayarak sonucunu sunucuda gösterir.<br>
 ⭐!karakök: Kullanıcıdan bir sayı girmesini ister ve ardından bu sayının karekökünü hesaplayarak sonucunu sunucuda gösterir.<br>
 ⭐!fac: Kullanıcıdan bir sayı girmesini ister ve ardından bu sayının faktöriyelini hesaplayarak sonucunu sunucuda gösterir.<br>
 ⭐!help: Bot tarafından desteklenen tüm komutları ve kullanımlarını gösterir.
-<b>Geliştirme</b>
+<h1>Geliştirme</h1>
 Bu bot, JavaScript ve Discord.js kullanılarak geliştirilmiştir. Kodu inceleyerek botun nasıl çalıştığını ve nasıl geliştirilebileceğini anlayabilirsiniz. Örneğin, hata kontrolünü geliştirebilir veya botun matematiksel hesaplamalar yapmak için kullanabileceği yeni komutlar ekleyebilirsiniz.
